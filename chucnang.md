@@ -1,0 +1,106 @@
+🔹 MÔ TẢ CHỨC NĂNG ỨNG DỤNG
+1. Tổng quan hệ thống
+
+Phần mềm quản lý cửa hàng đồ ăn vặt được xây dựng nhằm hỗ trợ chủ cửa hàng và nhân viên trong việc quản lý hoạt động kinh doanh hằng ngày một cách nhanh chóng, chính xác và hiệu quả.
+
+Hệ thống giúp:
+
+Giảm sai sót khi bán hàng
+Quản lý sản phẩm và tồn kho
+Theo dõi doanh thu
+Nâng cao trải nghiệm khách hàng
+2. Các nhóm chức năng chính
+📦 2.1. Quản lý sản phẩm
+🎯 Mục đích
+
+Quản lý toàn bộ thông tin về các món ăn vặt trong cửa hàng.
+
+⚙️ Chức năng chi tiết
+Thêm sản phẩm mới:
+Tên sản phẩm (ví dụ: Trà sữa, Khoai tây chiên)
+Giá bán
+Số lượng tồn
+Loại sản phẩm (đồ uống, đồ chiên, snack,…)
+Chỉnh sửa thông tin sản phẩm
+Xóa sản phẩm không còn bán
+Tìm kiếm sản phẩm theo tên
+Phân loại sản phẩm theo danh mục
+📌 Kết quả đạt được
+Dễ dàng kiểm soát danh sách món
+Tránh thiếu hàng hoặc tồn kho quá nhiều
+🛒 2.2. Quản lý bán hàng
+🎯 Mục đích
+
+Hỗ trợ nhân viên bán hàng nhanh chóng và chính xác.
+
+⚙️ Chức năng chi tiết
+Tạo đơn hàng mới
+Thêm sản phẩm vào giỏ hàng
+Tự động tính tổng tiền
+Cập nhật số lượng sản phẩm khi bán
+Áp dụng giảm giá / khuyến mãi (nếu có)
+In hoặc hiển thị hóa đơn
+📌 Kết quả đạt được
+Rút ngắn thời gian phục vụ khách
+Hạn chế sai sót khi tính tiền
+👤 2.3. Quản lý khách hàng
+🎯 Mục đích
+
+Lưu trữ thông tin khách hàng để chăm sóc và giữ chân khách.
+
+⚙️ Chức năng chi tiết
+Thêm khách hàng mới (tên, số điện thoại)
+Lưu lịch sử mua hàng
+Tích điểm thưởng
+Áp dụng ưu đãi cho khách quen
+📌 Kết quả đạt được
+Tăng sự hài lòng của khách hàng
+Hỗ trợ chương trình marketing
+📊 2.4. Báo cáo và thống kê
+🎯 Mục đích
+
+Giúp chủ cửa hàng theo dõi tình hình kinh doanh.
+
+⚙️ Chức năng chi tiết
+Thống kê doanh thu theo:
+Ngày
+Tháng
+Năm
+Thống kê:
+Số lượng đơn hàng
+Sản phẩm bán chạy
+Sản phẩm tồn kho
+Hiển thị biểu đồ (cột, tròn,…)
+📌 Kết quả đạt được
+Đưa ra quyết định kinh doanh chính xác
+Biết được sản phẩm nào đang “hot”
+🔐 2.5. Quản lý tài khoản và phân quyền
+🎯 Mục đích
+
+Đảm bảo an toàn và kiểm soát hệ thống.
+
+⚙️ Chức năng chi tiết
+Đăng nhập / đăng xuất
+Phân quyền người dùng:
+Quản lý (admin): toàn quyền
+Nhân viên: chỉ bán hàng
+📌 Kết quả đạt được
+Bảo mật thông tin
+Tránh thao tác sai từ nhân viên
+3. Đối tượng sử dụng
+👨‍💼 Chủ cửa hàng: quản lý toàn bộ hệ thống
+👩‍💻 Nhân viên: thực hiện bán hàng
+👥 Khách hàng: mua sản phẩm (gián tiếp sử dụng)
+4. Luồng hoạt động cơ bản của hệ thống
+Người dùng đăng nhập vào hệ thống
+Truy cập các chức năng chính:
+Quản lý sản phẩm
+Bán hàng
+Xem báo cáo
+Thực hiện bán hàng và cập nhật dữ liệu
+Hệ thống lưu trữ và thống kê
+5. Ưu điểm của hệ thống
+Dễ sử dụng
+Giao diện thân thiện
+Tăng hiệu quả quản lý
+Phù hợp với cửa hàng nhỏ và vừa
